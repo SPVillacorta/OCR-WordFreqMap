@@ -43,7 +43,7 @@ This project visualizes root word frequencies extracted from images using Optica
 
 The program overlays detected words as circles on the map, with each circle size proportional to the word’s frequency. Words are also annotated next to the circles.
 
-![Example Screenshot](screenshot.png)
+![Example Screenshot](example_output.png)
 
 ## Dependencies
 - Python 3.x
