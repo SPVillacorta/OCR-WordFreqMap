@@ -1,0 +1,5 @@
+matplotlib
+requests
+Pillow
+spacy
+nltk
