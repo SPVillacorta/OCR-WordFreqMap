@@ -66,3 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OCR.space](https://ocr.space/) for the OCR API used in this project.
 - [SpaCy](https://spacy.io/) and [NLTK](https://www.nltk.org/) for NLP tools.
 - [Matplotlib](https://matplotlib.org/) for visualization support.
+- Special thanks to **Behnam Sadeghi** for sharing the original draft idea that inspired this project. The current version was rebuilt and improved based on his initial concept.
